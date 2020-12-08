@@ -21,3 +21,7 @@ Week 2: Conditionals and Loops
 Week 3: Arrays
 * [Programming Assignments](https://github.com/liuhh02/Computer-Science-Programming-with-a-Purpose/tree/main/Week%203)
 * [Quiz](https://github.com/liuhh02/Computer-Science-Programming-with-a-Purpose/blob/main/Week%203/Quiz%203%20-%20Arrays.png)
+
+Week 4: Input and Output
+* [Programming Assignments](https://github.com/liuhh02/Computer-Science-Programming-with-a-Purpose/tree/main/Week%204)
+* [Quiz](https://github.com/liuhh02/Computer-Science-Programming-with-a-Purpose/blob/main/Week%204/Quiz%204%20-%20Input%20and%20Output.png)
