@@ -25,3 +25,7 @@ Week 3: Arrays
 Week 4: Input and Output
 * [Programming Assignments](https://github.com/liuhh02/Computer-Science-Programming-with-a-Purpose/tree/main/Week%204)
 * [Quiz](https://github.com/liuhh02/Computer-Science-Programming-with-a-Purpose/blob/main/Week%204/Quiz%204%20-%20Input%20and%20Output.png)
+
+Week 5: Functions and Libraries
+* [Programming Assignments](https://github.com/liuhh02/Computer-Science-Programming-with-a-Purpose/tree/main/Week%205)
+* [Quiz](https://github.com/liuhh02/Computer-Science-Programming-with-a-Purpose/blob/main/Week%205/Quiz%205%20-%20Functions%20and%20Libraries.png)
