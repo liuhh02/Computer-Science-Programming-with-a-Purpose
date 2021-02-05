@@ -29,3 +29,7 @@ Week 4: Input and Output
 Week 5: Functions and Libraries
 * [Programming Assignments](https://github.com/liuhh02/Computer-Science-Programming-with-a-Purpose/tree/main/Week%205)
 * [Quiz](https://github.com/liuhh02/Computer-Science-Programming-with-a-Purpose/blob/main/Week%205/Quiz%205%20-%20Functions%20and%20Libraries.png)
+
+Week 6: Recursion
+* [Programming Assignments](https://github.com/liuhh02/Computer-Science-Programming-with-a-Purpose/tree/main/Week%206)
+* [Quiz](https://github.com/liuhh02/Computer-Science-Programming-with-a-Purpose/blob/main/Week%206/Quiz%206%20-%20Recursion.png)
