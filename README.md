@@ -33,3 +33,7 @@ Week 5: Functions and Libraries
 Week 6: Recursion
 * [Programming Assignments](https://github.com/liuhh02/Computer-Science-Programming-with-a-Purpose/tree/main/Week%206)
 * [Quiz](https://github.com/liuhh02/Computer-Science-Programming-with-a-Purpose/blob/main/Week%206/Quiz%206%20-%20Recursion.png)
+
+Week 7: Performance
+* [Programming Assignments](https://github.com/liuhh02/Computer-Science-Programming-with-a-Purpose/tree/main/Week%207)
+* [Quiz](https://github.com/liuhh02/Computer-Science-Programming-with-a-Purpose/blob/main/Week%207/Quiz%207%20-%20Performance.png)
