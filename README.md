@@ -37,3 +37,7 @@ Week 6: Recursion
 Week 7: Performance
 * [Programming Assignments](https://github.com/liuhh02/Computer-Science-Programming-with-a-Purpose/tree/main/Week%207)
 * [Quiz](https://github.com/liuhh02/Computer-Science-Programming-with-a-Purpose/blob/main/Week%207/Quiz%207%20-%20Performance.png)
+
+Week 8: Abstract Data Types
+* [Programming Assignments](https://github.com/liuhh02/Computer-Science-Programming-with-a-Purpose/tree/main/Week%208)
+* [Quiz](https://github.com/liuhh02/Computer-Science-Programming-with-a-Purpose/blob/main/Week%208/Quiz%208%20-%20Abstract%20Data%20Types.png)
