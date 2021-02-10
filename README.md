@@ -41,3 +41,7 @@ Week 7: Performance
 Week 8: Abstract Data Types
 * [Programming Assignments](https://github.com/liuhh02/Computer-Science-Programming-with-a-Purpose/tree/main/Week%208)
 * [Quiz](https://github.com/liuhh02/Computer-Science-Programming-with-a-Purpose/blob/main/Week%208/Quiz%208%20-%20Abstract%20Data%20Types.png)
+
+Week 9: Creating Data Types
+* [Programming Assignments](https://github.com/liuhh02/Computer-Science-Programming-with-a-Purpose/tree/main/Week%209)
+* [Quiz](https://github.com/liuhh02/Computer-Science-Programming-with-a-Purpose/blob/main/Week%209/Quiz%209%20-%20Creating%20Data%20Types.png)
