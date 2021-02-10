@@ -53,3 +53,5 @@ Week 9: Creating Data Types
 Week 10: Programming Languages
 * [Programming Assignments](https://github.com/liuhh02/Computer-Science-Programming-with-a-Purpose/tree/main/Week%2010)
 * [Quiz](https://github.com/liuhh02/Computer-Science-Programming-with-a-Purpose/blob/main/Week%2010/Quiz%2010%20-%20Programming%20Languages.png)
+
+![Grades](Grades.png)
