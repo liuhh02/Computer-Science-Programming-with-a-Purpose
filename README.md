@@ -4,7 +4,11 @@ Quiz and Programming Assignment Solutions to the Coursera [Computer Science: Pro
 **Instructors**: [Robert Sedgewick](https://www.coursera.org/instructor/~250165), [Kevin Wayne](https://www.coursera.org/instructor/~246867)
 
 ## Introduction
-This repository contains the quiz and programming assignment solutions to the course as I work through the course. It will be updated regularly as I document my journey through this course. (Date Started: 3 December 2020).
+This repository contains the quiz and programming assignment solutions to the course. All quizzes and programming assignments have achieved the 100% score.
+
+Date Started: 3 December 2020
+
+Date Completed: 10 February 2021
 
 The quiz and programming assignment solutions are uploaded only for reference purposes. Please attempt the quizzes and programming assignments yourself and only look at the explanations if you find that you still can't understand it after consulting the discussion forums and reviewing the lecture content.
 
@@ -45,3 +49,7 @@ Week 8: Abstract Data Types
 Week 9: Creating Data Types
 * [Programming Assignments](https://github.com/liuhh02/Computer-Science-Programming-with-a-Purpose/tree/main/Week%209)
 * [Quiz](https://github.com/liuhh02/Computer-Science-Programming-with-a-Purpose/blob/main/Week%209/Quiz%209%20-%20Creating%20Data%20Types.png)
+
+Week 10: Programming Languages
+* [Programming Assignments](https://github.com/liuhh02/Computer-Science-Programming-with-a-Purpose/tree/main/Week%2010)
+* [Quiz](https://github.com/liuhh02/Computer-Science-Programming-with-a-Purpose/blob/main/Week%2010/Quiz%2010%20-%20Programming%20Languages.png)
